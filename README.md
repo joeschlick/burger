@@ -50,7 +50,7 @@ If you have any questions about the repo, open an issue or contact [joeschlick](
 
 ## Links:
 
-Repository link: https://github.com/joeschlick
+Repository link: https://github.com/joeschlick/burger
 
 Deployed application link: https://sheltered-savannah-06669.herokuapp.com/
 
