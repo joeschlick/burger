@@ -1,3 +1,43 @@
 body {
     background-color: blanchedalmond;
+    margin: auto;
+    width: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.list {
+    text-align: left; 
+    display: inline-block;
+}
+
+#list1 {
+    float: left;
+    margin-left: 60px;
+}
+
+#list2 {
+    float: right;
+    margin-right: 60px;
+}
+
+h2 {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+
+li {
+    font-size: 20px;
+    text-align: left; 
+}
+
+.input {
+    clear: both;
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+
+form {
+    margin-bottom: 50px;
 }
